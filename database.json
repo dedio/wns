@@ -1,0 +1,542 @@
+{
+    "Ingredientes": [
+        {
+            "id": 1,
+            "ingrediente": "Asado de tira",
+            "precio": 6800,
+            "categoria_ingrediente": "Carne Vacuna"
+        },
+        {
+            "id": 2,
+            "ingrediente": "Vacío",
+            "precio": 7200,
+            "categoria_ingrediente": "Carne Vacuna"
+        },
+        {
+            "id": 3,
+            "ingrediente": "Bife de chorizo",
+            "precio": 8500,
+            "categoria_ingrediente": "Carne Vacuna"
+        },
+        {
+            "id": 4,
+            "ingrediente": "Lomo",
+            "precio": 10900,
+            "categoria_ingrediente": "Carne Vacuna"
+        },
+        {
+            "id": 5,
+            "ingrediente": "Cuadril",
+            "precio": 7000,
+            "categoria_ingrediente": "Carne Vacuna"
+        },
+        {
+            "id": 6,
+            "ingrediente": "Roast beef",
+            "precio": 6200,
+            "categoria_ingrediente": "Carne Vacuna"
+        },
+        {
+            "id": 7,
+            "ingrediente": "Falda",
+            "precio": 4800,
+            "categoria_ingrediente": "Carne Vacuna"
+        },
+        {
+            "id": 8,
+            "ingrediente": "Carne picada especial",
+            "precio": 5500,
+            "categoria_ingrediente": "Carne Vacuna"
+        },
+        {
+            "id": 9,
+            "ingrediente": "Matambre",
+            "precio": 6900,
+            "categoria_ingrediente": "Carne Vacuna"
+        },
+        {
+            "id": 10,
+            "ingrediente": "Entraña",
+            "precio": 9200,
+            "categoria_ingrediente": "Carne Vacuna"
+        },
+        {
+            "id": 11,
+            "ingrediente": "Bondiola",
+            "precio": 6000,
+            "categoria_ingrediente": "Carne de Cerdo"
+        },
+        {
+            "id": 12,
+            "ingrediente": "Costillas",
+            "precio": 5500,
+            "categoria_ingrediente": "Carne de Cerdo"
+        },
+        {
+            "id": 13,
+            "ingrediente": "Lomo de cerdo",
+            "precio": 6800,
+            "categoria_ingrediente": "Carne de Cerdo"
+        },
+        {
+            "id": 14,
+            "ingrediente": "Jamón fresco",
+            "precio": 5200,
+            "categoria_ingrediente": "Carne de Cerdo"
+        },
+        {
+            "id": 15,
+            "ingrediente": "Panceta",
+            "precio": 7000,
+            "categoria_ingrediente": "Carne de Cerdo"
+        },
+        {
+            "id": 16,
+            "ingrediente": "Pollo entero",
+            "precio": 2600,
+            "categoria_ingrediente": "Pollo"
+        },
+        {
+            "id": 17,
+            "ingrediente": "Pechuga",
+            "precio": 3800,
+            "categoria_ingrediente": "Pollo"
+        },
+        {
+            "id": 18,
+            "ingrediente": "Muslo",
+            "precio": 3000,
+            "categoria_ingrediente": "Pollo"
+        },
+        {
+            "id": 19,
+            "ingrediente": "Ala",
+            "precio": 2400,
+            "categoria_ingrediente": "Pollo"
+        },
+        {
+            "id": 20,
+            "ingrediente": "Patamuslo",
+            "precio": 3200,
+            "categoria_ingrediente": "Pollo"
+        },
+        {
+            "id": 21,
+            "ingrediente": "Supremas",
+            "precio": 4000,
+            "categoria_ingrediente": "Pollo"
+        },
+        {
+            "id": 22,
+            "ingrediente": "Merluza fresca",
+            "precio": 5000,
+            "categoria_ingrediente": "Pescado"
+        },
+        {
+            "id": 23,
+            "ingrediente": "Salmón rosado (importado)",
+            "precio": 14500,
+            "categoria_ingrediente": "Pescado"
+        },
+        {
+            "id": 24,
+            "ingrediente": "Corvina",
+            "precio": 5800,
+            "categoria_ingrediente": "Pescado"
+        },
+        {
+            "id": 25,
+            "ingrediente": "Lenguado",
+            "precio": 8200,
+            "categoria_ingrediente": "Pescado"
+        },
+        {
+            "id": 26,
+            "ingrediente": "Pejerrey",
+            "precio": 6500,
+            "categoria_ingrediente": "Pescado"
+        },
+        {
+            "id": 27,
+            "ingrediente": "Filet de abadejo",
+            "precio": 7800,
+            "categoria_ingrediente": "Pescado"
+        },
+        {
+            "id": 28,
+            "ingrediente": "Calamar limpio",
+            "precio": 9000,
+            "categoria_ingrediente": "Pescado"
+        },
+        {
+            "id": 29,
+            "ingrediente": "Mejillones",
+            "precio": 4200,
+            "categoria_ingrediente": "Pescado"
+        },
+        {
+            "id": 30,
+            "ingrediente": "Tomate",
+            "precio": 1200,
+            "categoria_ingrediente": "Frutas"
+        },
+        {
+            "id": 31,
+            "ingrediente": "Lechuga",
+            "precio": 800,
+            "categoria_ingrediente": "Pescado"
+        },
+        {
+            "id": 32,
+            "ingrediente": "Zanahoria",
+            "precio": 950,
+            "categoria_ingrediente": "Raíz"
+        },
+        {
+            "id": 33,
+            "ingrediente": "Papa",
+            "precio": 850,
+            "categoria_ingrediente": "Tubérculos"
+        },
+        {
+            "id": 34,
+            "ingrediente": "Cebolla",
+            "precio": 900,
+            "categoria_ingrediente": "Tubérculos"
+        },
+        {
+            "id": 35,
+            "ingrediente": "Morrón",
+            "precio": 1500,
+            "categoria_ingrediente": "Frutas"
+        },
+        {
+            "id": 36,
+            "ingrediente": "Zapallo",
+            "precio": 700,
+            "categoria_ingrediente": "Frutas"
+        },
+        {
+            "id": 37,
+            "ingrediente": "Acelga",
+            "precio": 650,
+            "categoria_ingrediente": "Pescado"
+        },
+        {
+            "id": 38,
+            "ingrediente": "Espinaca",
+            "precio": 750,
+            "categoria_ingrediente": "Pescado"
+        },
+        {
+            "id": 39,
+            "ingrediente": "Brócoli",
+            "precio": 1400,
+            "categoria_ingrediente": "Frutas"
+        },
+        {
+            "id": 40,
+            "ingrediente": "Berenjena",
+            "precio": 1100,
+            "categoria_ingrediente": "Frutas"
+        },
+        {
+            "id": 41,
+            "ingrediente": "Calabaza",
+            "precio": 600,
+            "categoria_ingrediente": "Frutas"
+        },
+        {
+            "id": 42,
+            "ingrediente": "Pepino",
+            "precio": 1000,
+            "categoria_ingrediente": "Frutas"
+        },
+        {
+            "id": 43,
+            "ingrediente": "Remolacha",
+            "precio": 800,
+            "categoria_ingrediente": "Raíz"
+        },
+        {
+            "id": 44,
+            "ingrediente": "Batata",
+            "precio": 950,
+            "categoria_ingrediente": "Tubérculos"
+        },
+        {
+            "id": 45,
+            "ingrediente": "Choclo",
+            "precio": 1300,
+            "categoria_ingrediente": "Frutas"
+        }
+    ],
+    "Categorias_Ingredientes": [
+        {
+            "id": 1,
+            "categoria": "Carne Vacuna"
+        },
+        {
+            "id": 2,
+            "categoria": "Carne de Cerdo"
+        },
+        {
+            "id": 3,
+            "categoria": "Pollo"
+        },
+        {
+            "id": 4,
+            "categoria": "Pescado"
+        },
+        {
+            "id": 5,
+            "categoria": "Verduras de hoja"
+        },
+        {
+            "id": 6,
+            "categoria": "Frutas"
+        },
+        {
+            "id": 7,
+            "categoria": "Raíz"
+        },
+        {
+            "id": 8,
+            "categoria": "Tubérculos"
+        }
+    ],
+    "Recetas": [
+        {
+            "id": 1,
+            "receta": "Asado con ensalada criolla",
+            "Lista de Ingredientes": [
+                {
+                    "ingrediente": "Asado de tira",
+                    "peso": 1000
+                },
+                {
+                    "ingrediente": "Tomate",
+                    "peso": 250
+                },
+                {
+                    "ingrediente": "Cebolla",
+                    "peso": 400
+                },
+                {
+                    "ingrediente": "Morrón",
+                    "peso": 250
+                }
+            ],
+            "Instrucciones": "Cortar las verduras en cubos y mezclarlas con un poco de sal. Asar la carne a la parrilla hasta el punto deseado y acompañar con la ensalada."
+        },
+        {
+            "id": 2,
+            "receta": "Pollo al horno con papas y zanahorias",
+            "Lista de Ingredientes": [
+                {
+                    "ingrediente": "Pollo entero",
+                    "peso": 2000
+                },
+                {
+                    "ingrediente": "Papa",
+                    "peso": 800
+                },
+                {
+                    "ingrediente": "Zanahoria",
+                    "peso": 400
+                },
+                {
+                    "ingrediente": "Cebolla",
+                    "peso": 500
+                }
+            ],
+            "Instrucciones": "Cortar las verduras en rodajas, colocarlas junto al pollo en una fuente y hornear hasta que esté dorado y tierno."
+        },
+        {
+            "id": 3,
+            "receta": "Ensalada de atún (merluza) con espinaca",
+            "Lista de Ingredientes": [
+                {
+                    "ingrediente": "Merluza fresca",
+                    "peso": 1500
+                },
+                {
+                    "ingrediente": "Espinaca",
+                    "peso": 1000
+                },
+                {
+                    "ingrediente": "Tomate",
+                    "peso": 500
+                },
+                {
+                    "ingrediente": "Pepino",
+                    "peso": 300
+                }
+            ],
+            "Instrucciones": "Cocinar la merluza al vapor, desmenuzar y mezclar con las verduras frescas. Servir fría como ensalada."
+        },
+        {
+            "id": 4,
+            "receta": "Lomo salteado con brócoli y morrón",
+            "Lista de Ingredientes": [
+                {
+                    "ingrediente": "Lomo",
+                    "peso": 1250
+                },
+                {
+                    "ingrediente": "Brócoli",
+                    "peso": 600
+                },
+                {
+                    "ingrediente": "Morrón",
+                    "peso": 400
+                },
+                {
+                    "ingrediente": "Cebolla",
+                    "peso": 1000
+                }
+            ],
+            "Instrucciones": "Saltear las verduras en una sartén con el lomo en tiras hasta que todo esté tierno y ligeramente dorado."
+        },
+        {
+            "id": 5,
+            "receta": "Cerdo con batatas al horno",
+            "Lista de Ingredientes": [
+                {
+                    "ingrediente": "Bondiola",
+                    "peso": 1750
+                },
+                {
+                    "ingrediente": "Batata",
+                    "peso": 800
+                },
+                {
+                    "ingrediente": "Cebolla",
+                    "peso": 1000
+                },
+                {
+                    "ingrediente": "Calabaza",
+                    "peso": 750
+                }
+            ],
+            "Instrucciones": "Hornear las verduras en cubos junto con la bondiola hasta que estén caramelizadas y tiernas."
+        },
+        {
+            "id": 6,
+            "receta": "Berenjenas rellenas con carne picada",
+            "Lista de Ingredientes": [
+                {
+                    "ingrediente": "Carne picada especial",
+                    "peso": 1500
+                },
+                {
+                    "ingrediente": "Berenjena",
+                    "peso": 600
+                },
+                {
+                    "ingrediente": "Tomate",
+                    "peso": 500
+                },
+                {
+                    "ingrediente": "Cebolla",
+                    "peso": 1250
+                }
+            ],
+            "Instrucciones": "Cortar las berenjenas al medio, retirar parte de la pulpa, mezclar con carne y verduras salteadas, rellenar y hornear."
+        },
+        {
+            "id": 7,
+            "receta": "Supremas de pollo con puré de zapallo y brócoli",
+            "Lista de Ingredientes": [
+                {
+                    "ingrediente": "Supremas",
+                    "peso": 2000
+                },
+                {
+                    "ingrediente": "Zapallo",
+                    "peso": 1300
+                },
+                {
+                    "ingrediente": "Brócoli",
+                    "peso": 500
+                },
+                {
+                    "ingrediente": "Zanahoria",
+                    "peso": 300
+                }
+            ],
+            "Instrucciones": "Hervir zapallo y zanahoria, hacer un puré y servir junto al pollo grillado y el brócoli al vapor."
+        },
+        {
+            "id": 8,
+            "receta": "Entraña con ensalada tibia de remolacha",
+            "Lista de Ingredientes": [
+                {
+                    "ingrediente": "Entraña",
+                    "peso": 1500
+                },
+                {
+                    "ingrediente": "Remolacha",
+                    "peso": 500
+                },
+                {
+                    "ingrediente": "Espinaca",
+                    "peso": 750
+                },
+                {
+                    "ingrediente": "Cebolla",
+                    "peso": 600
+                }
+            ],
+            "Instrucciones": "Asar la entraña, y acompañar con una ensalada tibia de remolacha cocida, cebolla salteada y hojas de espinaca."
+        },
+        {
+            "id": 9,
+            "receta": "Pejerrey al horno con verduras de estación",
+            "Lista de Ingredientes": [
+                {
+                    "ingrediente": "Pejerrey",
+                    "peso": 2000
+                },
+                {
+                    "ingrediente": "Calabaza",
+                    "peso": 1000
+                },
+                {
+                    "ingrediente": "Zanahoria",
+                    "peso": 400
+                },
+                {
+                    "ingrediente": "Cebolla",
+                    "peso": 500
+                }
+            ],
+            "Instrucciones": "Colocar todo en una fuente, rociar con un toque de aceite, y hornear hasta que el pescado esté tierno y las verduras doradas."
+        },
+        {
+            "id": 10,
+            "receta": "Salteado de carne con choclo y acelga",
+            "Lista de Ingredientes": [
+                {
+                    "ingrediente": "Cuadril",
+                    "peso": 2000
+                },
+                {
+                    "ingrediente": "Choclo",
+                    "peso": 800
+                },
+                {
+                    "ingrediente": "Acelga",
+                    "peso": 400
+                },
+                {
+                    "ingrediente": "Cebolla",
+                    "peso": 1000
+                }
+            ],
+            "Instrucciones": "Saltear la carne con cebolla, agregar el choclo y la acelga picada, cocinar hasta que todo esté bien integrado."
+        }
+    ],
+    "Pedidos": []
+
+}
